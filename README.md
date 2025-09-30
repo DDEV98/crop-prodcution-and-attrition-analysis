@@ -1,8 +1,7 @@
 # crop-prodcution-analysis
 analysis crop production using python library tools
-<h2> Hey there! Doman Lal. <img src="[https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGhwOWo4ODZ0bXlkM3lzMGlsb3hrYzR3ZGxtYm1mNXdhamQ1OXIxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif)" width="25"></h2>
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGhwOWo4ODZ0bXlkM3lzMGlsb3hrYzR3ZGxtYm1mNXdhamQ1OXIxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif)" width="500"/>
-
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning about data science 
